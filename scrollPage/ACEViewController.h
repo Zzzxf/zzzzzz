@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  ViewController.h
 //  scrollPage
 //
 //  Created by  Zzzxf on 6/22/16.
@@ -7,10 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "abbccc.h"
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
 
-@property (strong, nonatomic) UIWindow *window;
+@interface ACEViewController :  UIViewController
 
 @end
-
